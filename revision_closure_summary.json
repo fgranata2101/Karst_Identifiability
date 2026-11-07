@@ -1,0 +1,36 @@
+{
+  "metric_definition": "maximum pairwise Euclidean u-distance among candidates inside the respective chi-square_8=15.507 likelihood region for both iid and AR1",
+  "best_iid_to_AR1_u_distance_median": 0.44378006912102785,
+  "best_iid_to_AR1_u_distance_q25": 9.627544555575594e-07,
+  "best_iid_to_AR1_u_distance_q75": 1.0477612226917024,
+  "same_best_fraction": 0.25,
+  "support_gate": {
+    "PASS": "window>=0.90 and site>=0.90",
+    "BORDERLINE": "window>=0.80 and site>=0.80, otherwise FAIL",
+    "M7": {
+      "window": 0.792308,
+      "site": 0.769231,
+      "status": "FAIL"
+    },
+    "M8": {
+      "window": 0.215385,
+      "site": 0.134615,
+      "status": "FAIL"
+    },
+    "M9": {
+      "window": 0.692308,
+      "site": 0.673077,
+      "status": "FAIL"
+    },
+    "M10": {
+      "window": 0.734615,
+      "site": 0.75,
+      "status": "FAIL"
+    },
+    "M11": {
+      "window": 0.892308,
+      "site": 0.846154,
+      "status": "BORDERLINE"
+    }
+  }
+}

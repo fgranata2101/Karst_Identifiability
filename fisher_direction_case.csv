@@ -1,0 +1,5 @@
+case_id,context_days,direction,eigenvalue,requested_whitened_amplitude,used_plus_amplitude,used_minus_amplitude
+S1_00689,90,leading,2023861.3342354426,0.5,0.5,0.5
+S1_00689,90,weakest,0.0001004583879702578,0.5,0.5,0.5
+S1_00689,1825,leading,40895813.53962978,0.5,0.5,0.5
+S1_00689,1825,weakest,7.437940500430997,0.5,0.5,0.5
